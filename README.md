@@ -4,15 +4,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **[Full stack development @neogcamp](https://neog.camp/)**
+- 🌱 I’m Software Engineer
 
 - 🔮 I Enjoy working on ReactJs, Javascript, and UI development
 
 - 👨‍💻 All of my projects are showcased on **[peerlist](https://peerlist.io/narhari_k)**
 
 - 📫 How to reach me **naraharikale5051@gmail.com**
-
--  Horrifying fact **I can code in light mode**
 
 ## 🚀 Languages and Tools:
 
