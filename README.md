@@ -8,7 +8,7 @@
 
 - 🔮 I Enjoy working on ReactJs, Javascript, and UI development
 
-- 👨‍💻 All of my projects are showcased on **[peerlist](https://peerlist.io/narhari_k)**
+- 👨‍💻 All of my projects are showcased on **[peerlist](https://peerlist.io/narharik)**
 
 - 📫 How to reach me **naraharikale5051@gmail.com**
 
