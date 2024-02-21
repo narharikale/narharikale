@@ -48,9 +48,9 @@
 ## Connect with me:
 
 <p align="left">
-<a href = "https://twitter.com/NarhariKale4"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/_narharik"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
 <a href = "https://www.linkedin.com/in/narharikale/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a  href = "https://peerlist.io/narhari_k">
+<a  href = "https://peerlist.io/narharik">
 <img style=" width:46px ; height:45px ; border-radius:13px;" src="https://media-exp2.licdn.com/dms/image/C4D0BAQGjCtiL8FcUcw/company-logo_200_200/0/1646835554796?e=1663200000&v=beta&t=Ot-k6wEhKyTcEpee9j-lVHrTJ35HtMsRnhMImvdRkH4"/></a>
 
 </p>
