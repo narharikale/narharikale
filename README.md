@@ -10,7 +10,6 @@
 
 - 👨‍💻 All of my projects are showcased on **[peerlist](https://peerlist.io/narharik)**
 
-- 📫 How to reach me **naraharikale5051@gmail.com**
 
 ## 🚀 Languages and Tools:
 
